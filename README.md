@@ -1,2 +1,3 @@
 장희수 202430125
-Syntax error on token ".", Identifier expected after this token
+오류
+Syntax error on token ".", Identifier expected after this tokenJava(1610612967)
